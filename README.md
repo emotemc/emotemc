@@ -1,5 +1,5 @@
 - 👋 Hi, I’m EmoteVille! (@emotemc)
-- 📫 You can reach me at https://www.emoteville.com
+- 📫 You can reach me at https://www.emotemc.com
 
 <!---
 emotemc/emotemc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
